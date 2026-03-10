@@ -1,4 +1,11 @@
-# Development
+# dioxus-clicker-example
+Blazingly fast and simple cookie clicker written in Dioxus & Rust.
+
+<img width="300" alt="Снимок экрана 2026-03-10 в 17 04 19" src="https://github.com/user-attachments/assets/0075a709-954c-4c6c-9c20-6dcc0683846d" />
+<img width="300" alt="Снимок экрана 2026-03-10 в 17 04 07" src="https://github.com/user-attachments/assets/96ac0eae-892d-4a3c-8d59-865bc16115ce" />
+
+### Development
+
 
 Your new bare-bones project includes minimal organization with a single `main.rs` file and a few assets.
 
